@@ -2,6 +2,7 @@
 
 The Covid-19 Classifier classifies the X-Ray images into Covid and Non-Covid. Our model got a testing accuracy of 94.69% and F1-score of 90%.
 
+
 ## ROC Curve
 We got a AUC Score of **0.934**
 ![alt tag](https://github.com/ajazturki10/COVID_19-Prediction-from-Radiography-X-RAY-Reports/blob/main/ROC_Curve.png)
