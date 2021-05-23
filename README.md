@@ -4,6 +4,4 @@ Link for Dataset : https://www.kaggle.com/tawsifurrahman/covid19-radiography-dat
 
 
 
-![alt text](D:/COVID_19_Radiography/img.png)
-![Uploading image.png…]()
 
