@@ -1,6 +1,8 @@
 # COVID_19 Classifier using X-Ray reports
 
-The Covid-19 Classifier classifies the X-Ray images into Covid and Non-Covid. Our model got a testing accuracy of 94.69% and F1-score of 90%.
+>The Covid-19 Classifier classifies the X-Ray images into Covid and Non-Covid. 
+>testing Accuracy : 94.69%
+>F1 Score : 90%
 
 
 ## ROC Curve
