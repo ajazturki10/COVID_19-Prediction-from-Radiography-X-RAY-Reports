@@ -2,9 +2,9 @@
 
 >The Covid-19 Classifier classifies the X-Ray images into Covid and Non-Covid. 
 
->testing Accuracy : 94.69%
+>testing Accuracy : `94.69%`
 
->F1 Score : 90%
+>F1 Score : `90%`
 
 
 ## ROC Curve
